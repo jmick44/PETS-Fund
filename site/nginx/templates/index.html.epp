@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Hello from Puppet!</title>
+  </head>
+  <body>
+    <h1>Hello World, Puppet is Fun! The IP address of this node is: <%= $facts['ipaddress'] -%> </h1>
+  </body>
+</html>

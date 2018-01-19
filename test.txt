@@ -1,0 +1,5 @@
+Puppet is awesome!
+
+It is.
+
+Yay!
